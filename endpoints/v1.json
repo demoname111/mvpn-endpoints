@@ -1,0 +1,22 @@
+{
+  "schema": "maximumvpn-endpoints-v1",
+  "package_name": "com.maximumvpn.app",
+  "sequence": 1794263146,
+  "issued_at": 1794263146,
+  "expires_at": 1825799146,
+  "key_id": "f497a0eb75b3a64618dadfaabfd71f8a",
+  "profiles_epoch": 1,
+  "api_base_urls": [
+    "https://194-1-133-61.sslip.io"
+  ],
+  "update_manifest_urls": [
+    "https://194-1-133-61.sslip.io/updates/stable.json"
+  ],
+  "geo_manifest_url": "https://194-1-133-61.sslip.io/updates/geo/v1.json",
+  "tactics_url": "https://194-1-133-61.sslip.io/tactics/stable.json",
+  "bootstrap_urls": [
+    "https://raw.githubusercontent.com/demoname111/mvpn-endpoints/main/endpoints/v1.json",
+    "https://cdn.jsdelivr.net/gh/demoname111/mvpn-endpoints@main/endpoints/v1.json"
+  ],
+  "signature": "Ko9mF3r4g4uFKsPX+sDnVsd7BFj7sjdR+ae43IodQLENwhIgN3Aha3KOoRz977n+ooH+5ucsDrrcjo3XQgWNtbXisPhtU0w4B01pxQ/TZr+qmNhLAIFbss82zSULT6UlYvBrznmYiRlbZya7vWLvlGDu46TYD52fgsxJCFbSE+nqHbhk4JMUCVu8XNuvSm9be56uM7Ed1+M12m+MH1PoJ8zk2bre9sJhDSqqMxhB+BmcleZ3KIVsexxh+IkmxEv4XWCdZxlvtYb6Pnv/DUme05ZBU8iN6s4tHvJxAYTWzO7QazhloBBdWqDT9uh2x8QtOVGV0Jg5dj8nJoP8d2Jt7uIIfS9ntKyV7Vh/hp1ohv9DI4VqhFkjlPaYUvgCceIuCA0DkBA6YOciCvXeBikKvN2QzNqAu2djHGIp9GZMpsKnF8mARxe6r+TvPVYXJU53QJKd6dqQgFjhE02F7LmfZVEfk0oBMNcgjwv//H6Z5mAMvKH2LdhXyWauX2+8rUKn"
+}
